@@ -1,0 +1,9 @@
+venv
+.idea
+corrupted
+corrupted_spec
+my_model
+test_audio
+test_spec
+train_audio
+train_spec
